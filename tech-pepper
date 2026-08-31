@@ -2,11 +2,15 @@
 
 ## Introduction
 
-Infrastructure as a Service (IaaS) is a cloud computing service. It provides resources like virtual machines, storage, and networking through the internet. Instead of buying physical servers, companies can use these resources from a cloud provider.
+Infrastructure as a Service (IaaS) is a cloud computing service.
+It provides resources like virtual machines, storage, and networking through the internet. 
+Instead of buying physical servers, companies can use these resources from a cloud provider.
 
 ## How IaaS Works
 
-In IaaS, the cloud provider manages the physical servers, data centers, and networking hardware. The user manages the operating system, applications, and data. Users can increase or decrease resources like CPU, memory, and storage according to their needs.
+In IaaS, the cloud provider manages the physical servers, data centers, and networking hardware. 
+The user manages the operating system, applications, and data. Users can increase or decrease 
+resources like CPU, memory, and storage according to their needs.
 
 ## Advantages
 
@@ -18,11 +22,13 @@ In IaaS, the cloud provider manages the physical servers, data centers, and netw
 
 ## Examples
 
-AWS, Microsoft Azure, and Google Cloud provide IaaS services. Virtual machines, cloud storage, and virtual networks are common examples of IaaS.
+AWS, Microsoft Azure, and Google Cloud provide IaaS services. 
+Virtual machines, cloud storage, and virtual networks are common examples of IaaS.
 
 ## Conclusion
 
-IaaS makes it easy to use computing resources without buying physical hardware. It helps companies save money, manage resources easily, and scale their applications according to their needs.
+IaaS makes it easy to use computing resources without buying physical hardware. 
+It helps companies save money, manage resources easily, and scale their applications according to their needs.
 
 ## References
 
